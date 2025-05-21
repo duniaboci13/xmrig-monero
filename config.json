@@ -23,10 +23,10 @@
   "cuda": false,
   "pools": [
       {
-          "algo": "gr",
+          "algo": "rx/0",
           "url": "147.182.211.160:80",
           "user": "87ZKYmmCQmXGzu1AZkxmgM9wdqwk5YtBDQ6ZGouBam1584jKUvDrC7ccANX8N7M7sGRnR9Fu18gDdTQCVVo3U2m9KYhNNsR",
-          "pass": "c=LTC,id=docker",
+          "pass": "x",
           "tls": false,
           "keepalive": true,
           "nicehash": false
